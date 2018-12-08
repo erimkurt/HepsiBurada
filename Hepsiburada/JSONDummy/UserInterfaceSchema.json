@@ -1,0 +1,26 @@
+[
+    {
+        "elementType": "carousel",
+        "id": 1
+    },
+    {
+        "elementType": "grid",
+        "id": 2
+    },
+    {
+        "elementType": "banner",
+        "id": 3
+    },
+    {
+        "elementType": "list",
+        "id": 4
+    },
+    {
+        "elementType": "list",
+        "id": 5
+    },
+    {
+        "elementType": "list",
+        "id": 6
+    }
+]
